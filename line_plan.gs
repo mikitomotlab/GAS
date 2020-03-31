@@ -1,8 +1,8 @@
 function myFunction() {
   // カレンダーID
-  var calId = "mikitomoshirahama@gmail.com";
+  var calId = "$ Gamil address!";
   // LINE Notifyのアクセストークン
-  var key = "P8qcYcxPAJmZD96xt64Df5BVwhvhgfIVcWqhnNtrQ0v";
+  var key = "$ acess_key!";
 
   var url = "https://notify-api.line.me/api/notify";
 
